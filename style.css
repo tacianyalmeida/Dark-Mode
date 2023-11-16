@@ -1,0 +1,9 @@
+body{
+    transition: backgroud-color 1s; color: 1s;
+}
+
+
+.darkMode{
+    background-color: black;
+    color: white;
+}
